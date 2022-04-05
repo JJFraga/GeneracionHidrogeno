@@ -37,6 +37,7 @@ public class NewJFrame extends javax.swing.JFrame
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setAlwaysOnTop(true);
         setBackground(new java.awt.Color(102, 255, 102));
+        setExtendedState(    MAXIMIZED_BOTH);
 
         jButton1.setText("jButton1");
 
